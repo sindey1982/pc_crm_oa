@@ -14,23 +14,13 @@ there are three section for a new customer:
 
 2. Business inforomation \( bussiness information for this company\)
 
-      fill the form with information you have  .   ![](/assets/company_information.png)
+   fill the form with information you have  .   ![](/assets/business_information.png)
 
-Contact information \( contacts of the company, required when send quote to customer\)
+   3.Contact information \( contacts of the company, required when send quote to customer\)
 
-Business information
+    add one ore more contact infomation as follow instructions.
 
-```
-fill the form with information you have
-```
-
-![](/assets/business_information.png)
-
-Contact information
-
-add one ore more contact infomation as follow instructions.
-
-Note:
+    Note:
 
 * You must save all contacts by click submit button  after adding completed
 * Submitting button also save the information for other infomation you have filled.
