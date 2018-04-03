@@ -8,11 +8,15 @@ there are three section for a new customer:
 
    Notice error tips on the top of tab lables .this indicates this information need to be enhanced . ![](/assets/tab_errors_tips.png)
 
-       Notice error tips on the top of fields in form.![](/assets/fields_errors.png)
+   ```
+   Notice error tips on the top of fields in form.![](/assets/fields_errors.png)
+   ```
 
-1. Business inforomation \( bussiness information for this company\)
+2. Business inforomation \( bussiness information for this company\)
 
-2. Contact information \( contacts of the company, required when send quote to customer\)
+       
+
+1. Contact information \( contacts of the company, required when send quote to customer\)
 
 Company information
 
