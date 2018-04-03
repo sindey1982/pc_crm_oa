@@ -20,5 +20,12 @@ fill the form with information you have
 
 Contact information
 
+   add one ore more contact infomation as follow instructions. 
 
+   Note: 
+
+*    You must save all contacts by click submit button  after adding completed
+*    Submitting button also save the information for other infomation you have filled.
+
+  ![](/assets/add_contact_stype1.png)
 
