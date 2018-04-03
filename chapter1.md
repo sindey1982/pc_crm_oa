@@ -10,13 +10,15 @@ there are three section for a new customer:
 
 Company information
 
-   fill the form with information you have  .   ![](/assets/company_information.png)Business information 
+fill the form with information you have  .   ![](/assets/company_information.png)Business information
 
-    fill the form with information you have  .   ![](/assets/company_information.png)
+```
+fill the form with information you have
+```
 
- ![](/assets/business_information.png)
+![](/assets/business_information.png)
 
 Contact information
 
-    
+
 
