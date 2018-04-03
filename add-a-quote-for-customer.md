@@ -8,7 +8,7 @@ you can create a quote for a customer by click create button on the top of quote
 
 ![](/assets/quote_select_customer.png)
 
- you will need to select manager who will audit this quote. sales info also is required.  quote description can  help describe moe clear of quote when audit or review history in future , but not required.
+you will need to select manager who will audit this quote. sales info also is required.  quote description can  help describe moe clear of quote when audit or review history in future , but not required.
 
-![](/assets/audit_sales.png)add products 
+![](/assets/audit_sales.png)add product for this quote.  one product info will be added  after add button clicked. discount and total under the table will be   when all info of  prod filled.
 
