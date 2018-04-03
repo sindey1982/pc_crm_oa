@@ -14,11 +14,11 @@ there are three section for a new customer:
 
 2. Business inforomation \( bussiness information for this company\)
 
-3. Contact information \( contacts of the company, required when send quote to customer\)
+      fill the form with information you have  .   ![](/assets/company_information.png)
 
-Company information
+Contact information \( contacts of the company, required when send quote to customer\)
 
-![](/assets/company_information.png)Business information
+Business information
 
 ```
 fill the form with information you have
