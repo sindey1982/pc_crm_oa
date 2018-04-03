@@ -15,13 +15,3 @@ when quote rejected , reason will display in the edit form.
 
 
 
-
-
-
-
-
-
-
-
-
-
