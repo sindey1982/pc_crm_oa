@@ -9,5 +9,19 @@ When can we edit a quote ?   there are follow conditions we can edit quote:
 
 when quote rejected , reason will display in the edit form.
 
-![](/assets/quote_reject_reason.png)
+![](/assets/quote_reject_reason.png)when eidting quote , please note follow items:
+
+* you cannot delete all products
+
+
+
+
+
+
+
+
+
+
+
+
 
