@@ -6,7 +6,7 @@ there are three section for a new customer:
 
 1. Company information \(company basic information, required filled at start\)
 
-   Notice error tips on the top of tab lables .this indicates this information need to be enhanced . ![](/assets/tab_errors_tips.png)
+   fill the form with information you have  .   ![](/assets/company_information.png)Notice error tips on the top of tab lables .this indicates this information need to be enhanced . ![](/assets/tab_errors_tips.png)
 
    ```
    Notice error tips on the top of fields in form.![](/assets/fields_errors.png)
@@ -14,13 +14,11 @@ there are three section for a new customer:
 
 2. Business inforomation \( bussiness information for this company\)
 
-       
-
-1. Contact information \( contacts of the company, required when send quote to customer\)
+3. Contact information \( contacts of the company, required when send quote to customer\)
 
 Company information
 
-fill the form with information you have  .   ![](/assets/company_information.png)Business information
+![](/assets/company_information.png)Business information
 
 ```
 fill the form with information you have
