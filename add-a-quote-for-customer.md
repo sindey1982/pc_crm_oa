@@ -10,5 +10,9 @@ you can create a quote for a customer by click create button on the top of quote
 
 you will need to select manager who will audit this quote. sales info also is required.  quote description can  help describe moe clear of quote when audit or review history in future , but not required.
 
-![](/assets/audit_sales.png)add product for this quote.  one product info will be added  after add button clicked. discount and total under the table will be   when all info of  prod filled.
+![](/assets/audit_sales.png)add product for this quote.  one product info will be added  after add button clicked. Total ifno under the table will be   calculated when all info of all  product and discount field\(can be 0\) filled .notic that every product info in the table should be filled to make the result correct .
+
+![](/assets/qutoe_add_product.png)
+
+at last , you could choose save quote without submiting. in this situation,your quote will not be submited to manager, but still saved to the database for editing and view. and if you click submit quotes,the quotes will be submited to  mannger for auditing immediately.
 
