@@ -9,13 +9,11 @@ click "all customers" on the top toolbars if you want display all customer .
 2. search customer from tables. and you could reset resarch condition by reset button.![](/assets/search_customers.png)![](/assets/clear_condition.png)
 3. delete cusomter info and edit cusotmer info.
 
-       you cat delete customer info by click button.
+   ```
+   you cat delete customer info by click button.
+   ```
 
-      ![](/assets/delete_edit.png)
-
-
-
-
+   ![](/assets/delete_edit.png)
 
 
 
