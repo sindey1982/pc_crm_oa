@@ -4,15 +4,23 @@ Requirements are important instructions. The more clear and precise , the workou
 
 Step 1:
 
- choose requirement type and proudcts involving.
+choose requirement type and proudcts involving.
 
 ![](/assets/products_requiremes_invole.png)
 
-  If choose single ,  you will be allowed to choose only one product.
+If choose single ,  you will be allowed to choose only one product.
 
-  if choose group or combo,  one more products can be choosen.
+if choose group or combo,  one more products can be choosen.
 
 ![](/assets/44ss\import.png)![](/assets/sfesfesfesimport.png)![](/assets/sfsehhhimport.png)
+
+Step 2:
+
+ Editing photo requirements in the form fields.
+
+Step 3:\( not nessary  \)
+
+  upload reference photos.
 
 
 
