@@ -17,4 +17,5 @@
   * [Send to photographer](working-in-job-detail-page/send-to-photographer.md)
 * [Working in job console](wording-in-job-console.md)
   * [Add photo needed retouch](wording-in-job-console/add-photo-needed-retouch.md)
+* [Working in retouch console](working-in-retouch-console.md)
 
