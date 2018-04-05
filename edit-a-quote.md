@@ -7,11 +7,12 @@ When can we edit a quote ?   there are follow conditions we can edit quote:
 
 ![](/assets/edit_quote_when_in_draft.png)![](/assets/edit_quote_rejected.png)
 
-when quote rejected , reason will display in the edit form.
+when quote rejected , reason will display in the edit form. reedit by reasons.
 
 ![](/assets/quote_reject_reason.png)when eidting quote , please note follow items:
 
-* you cannot delete all products
+* You cannot delete all products. perserve one product at least.
+* Rejected quote will be recommited to manager when reedited.
 
 
 
