@@ -9,4 +9,6 @@
 * [Approve or reject a quote](approve-or-reject-a-quote.md)
 * [Send a quote to customer](send-a-quote-to-customer.md)
 * [Create job](create-job.md)
+* [Edit job](edit-job.md)
+* [Job recieved package](job-recieved-package.md)
 
