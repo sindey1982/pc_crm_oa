@@ -16,11 +16,11 @@ if choose group or combo,  one more products can be choosen.
 
 Step 2:
 
- Editing photo requirements in the form fields.
+Editing photo requirements in the form fields.
 
 Step 3:\( not nessary  \)
 
-  upload reference photos.
+upload reference photo. ![](/assets/upload_reference_photos.png)Note:  you should click upload button ![](/assets/sssssssimport.png)before save requirements. This is the defect for this upload widget. 
 
-
+At last you can save this requirement. it will appear in the detail page.![](/assets/ggggggggggggg.png)Editing and removing  are also supported .
 
