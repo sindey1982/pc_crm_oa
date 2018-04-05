@@ -16,4 +16,5 @@
   * [Adding Requirements](working-in-job-detail-page/adding-requirements.md)
   * [Send to photographer](working-in-job-detail-page/send-to-photographer.md)
 * [Working in job console](wording-in-job-console.md)
+  * [Add photo needed retouch](wording-in-job-console/add-photo-needed-retouch.md)
 
