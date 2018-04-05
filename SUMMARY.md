@@ -11,4 +11,5 @@
 * [Create job](create-job.md)
 * [Edit job](edit-job.md)
 * [Job recieved package](job-recieved-package.md)
+* [Working in job detail page](working-in-job-detail-page.md)
 
