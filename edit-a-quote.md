@@ -13,6 +13,7 @@ when quote rejected , reason will display in the edit form. reedit by reasons.
 
 * You cannot delete all products. perserve one product at least.
 * Rejected quote will be recommited to manager when reedited.
+* When quote was approved by manager, you cannot edit the quote again. making a new quote is the only way  if you need re-edit this quote.
 
 
 
