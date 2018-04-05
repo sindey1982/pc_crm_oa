@@ -14,4 +14,5 @@
 * [Working in job detail page](working-in-job-detail-page.md)
   * [Adding products](working-in-job-detail-page/adding-products.md)
   * [Adding Requirements](working-in-job-detail-page/adding-requirements.md)
+  * [Send to photographer](working-in-job-detail-page/send-to-photographer.md)
 
