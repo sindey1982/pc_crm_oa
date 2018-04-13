@@ -18,6 +18,7 @@
 * [Working in job console\( photographer\)](wording-in-job-console.md)
   * [Add photo needed retouch](wording-in-job-console/add-photo-needed-retouch.md)
   * [Audit a retouch work](wording-in-job-console/audit-a-retouch-work.md)
+  * [Pass the audition and complete the requirements](wording-in-job-console/pass-the-audition-and-complete-the-requirements.md)
 * [Working in retouch console\(retoucher\)](working-in-retouch-console.md)
   * [Add retouch work](working-in-retouch-console/add-retouch-work.md)
   * [Rework when rejected](working-in-retouch-console/rework-when-rejected.md)
