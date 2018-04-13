@@ -12,3 +12,5 @@ you can't see anything until photographer assigns retouching work to you.\(you m
 
 Clicking the grid item for revealing the working information.
 
+![](/assets/retoucher_working_areas.png)
+
