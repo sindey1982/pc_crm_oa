@@ -15,6 +15,7 @@
   * [Adding products](working-in-job-detail-page/adding-products.md)
   * [Adding Requirements](working-in-job-detail-page/adding-requirements.md)
   * [Send to photographer](working-in-job-detail-page/send-to-photographer.md)
+  * [Quality Check](working-in-job-detail-page/quality-check.md)
 * [Working in job console\( photographer\)](wording-in-job-console.md)
   * [Add photo needed retouch](wording-in-job-console/add-photo-needed-retouch.md)
   * [Audit a retouch work](wording-in-job-console/audit-a-retouch-work.md)

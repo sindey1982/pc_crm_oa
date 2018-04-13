@@ -14,7 +14,5 @@ Audit again when retoucher re-upload.
 
 when all jobs complete , your QC for job has compelted as well. You can submit the whole job to coordinator for QC.
 
-![](/assets/complete_job_qc.png)d
-
-
+![](/assets/complete_job_qc.png)
 
