@@ -24,5 +24,5 @@ Downloading the retouch outcome uploading by routcher in the "Outcomes" area. if
 
 The Log area will record every operation you done for this raw.  the same as retoucher.
 
-. ![](/assets/photo_working_detail.png)
+. ![](/assets/photo_working_detail.png)Now retoucher should start the retouching work.
 
