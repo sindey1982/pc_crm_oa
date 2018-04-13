@@ -14,5 +14,13 @@ Don't forget to click upload button to start uploading after choosing file you w
 
 One new file will appear under toolbar. there are some small buttons for deleting and downloading as your needs.
 
-![](/assets/retouhed_list_intro.png)![](/assets/photo_working_detail.png)
+Clicking file item will trigger revealing  working detail of this file .
+
+![](/assets/retouhed_list_intro.png)In the working area of raw file, there is some information helping to describe this file working progresses.
+
+First of all , you can add some more requirements in the todo list for retoucher .
+
+Downloading the retouch outcome uploading by routcher in the "Outcomes" area. if work has not been uplaoding , you can notify retoucher by send email. this will  be improved in the future.
+
+. ![](/assets/photo_working_detail.png)
 
