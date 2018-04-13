@@ -18,6 +18,7 @@
   * [Quality Check](working-in-job-detail-page/quality-check.md)
   * [Send Invoice](working-in-job-detail-page/send-invoice.md)
   * [Share photo](working-in-job-detail-page/share-photo.md)
+  * [Return package](working-in-job-detail-page/return-package.md)
 * [Working in job console\( photographer\)](wording-in-job-console.md)
   * [Add photo needed retouch](wording-in-job-console/add-photo-needed-retouch.md)
   * [Audit a retouch work](wording-in-job-console/audit-a-retouch-work.md)
