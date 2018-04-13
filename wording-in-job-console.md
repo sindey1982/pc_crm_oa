@@ -8,8 +8,8 @@ In this console, you will do following operations:
 
 1. submiting raw photo need to be retouched, 
 2. send to retoucher,
-3. audit retouch photo, 
-4. asserting requirements complete , 
+3. audit retouch photo: pass the work or deny with reason
+4. asserting requirements complete ,
 5. submit job to cordinator for QC.
 
 
