@@ -2,7 +2,7 @@
 
 When click requirement in the requirement list , the detail of requirement will appear on the left.
 
-You can upload the raw photo by clicking plus buton in the "Photos Need Reouched" tab when you complete the photo following the requirements in "description" tab.
+You can upload the raw photo by clicking plus buton in the "Photos Need Reouched" tab , when you complete the photo following the requirements in "description" tab.
 
 ![](/assets/add_photo_need_retouch.png)
 
