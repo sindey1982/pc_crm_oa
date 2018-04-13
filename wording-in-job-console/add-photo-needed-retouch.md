@@ -22,7 +22,7 @@ First of all , you can add some more requirements in the todo list for retoucher
 
 Downloading the retouch outcome uploading by routcher in the "Outcomes" area. if work has not been uplaoding , you can notify retoucher by send email.
 
-The Log area will record every operation you done for this raw.
+The Log area will record every operation you done for this raw.  the same as retoucher.
 
 . ![](/assets/photo_working_detail.png)
 
