@@ -6,7 +6,7 @@ Job has been send to photographer for photographing. In his waiting cope table ,
 
 In this console, you will do following operations:
 
-1. submiting raw photo need to be retouched, 
+1. add raw photo need to be retouched, 
 2. send to retoucher,
 3. audit retouch photo: pass the work or deny with reason
 4. asserting requirements complete ,
