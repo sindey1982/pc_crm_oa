@@ -12,7 +12,7 @@ Don't forget to click upload button to start uploading after choosing file you w
 
 ![](/assets/upload_photo_dialog_photographer.png)
 
-one new file will appear under toolbar. there are some small buttons for deleting and downloading as your needs.
+One new file will appear under toolbar. there are some small buttons for deleting and downloading as your needs.
 
 ![](/assets/retouhed_list_intro.png)![](/assets/photo_working_detail.png)
 
