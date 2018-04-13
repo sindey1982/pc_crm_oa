@@ -4,5 +4,7 @@ Click upload now button to upload your work , after completing the work by tips 
 
 You could review your work after uploading . You may re-upload new retouching working which will overwrite the old one.![](/assets/download_retouch_or_new.png)
 
-From now on , you have completed this retouching work of this file
+From now on , you have completed this retouching work of this file.Wait for auditing by photographer.
+
+the result will apper in the item of tables as a icon.
 
