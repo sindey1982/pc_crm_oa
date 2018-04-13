@@ -4,13 +4,9 @@ We have requirements for this job now, it's time for sending the job to photogra
 
 ![](/assets/job_working_cordinate.png)
 
-On the other hand, photographer will also received the job . the job will appear in his waiting cope gird .
+On the other hand, photographer will also received the job . the job will appear in his waiting cope table .
 
 Your detai pange will change the job current state .
 
 ![](/assets/ffffffimport.png)
-
-
-
-
 
