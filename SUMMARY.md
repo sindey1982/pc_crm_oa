@@ -20,4 +20,5 @@
   * [Audit a retouch work](wording-in-job-console/audit-a-retouch-work.md)
 * [Working in retouch console\(retoucher\)](working-in-retouch-console.md)
   * [Add retouch work](working-in-retouch-console/add-retouch-work.md)
+  * [Rework when rejected](working-in-retouch-console/rework-when-rejected.md)
 
