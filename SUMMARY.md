@@ -18,4 +18,5 @@
 * [Working in job console\( photographer\)](wording-in-job-console.md)
   * [Add photo needed retouch](wording-in-job-console/add-photo-needed-retouch.md)
 * [Working in retouch console\(retoucher\)](working-in-retouch-console.md)
+  * [Add retouch work](working-in-retouch-console/add-retouch-work.md)
 
