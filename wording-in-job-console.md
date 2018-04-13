@@ -4,5 +4,13 @@ Job has been send to photographer for photographing. In his waiting cope table ,
 
 ![](/assets/sssssimport.png)
 
-In this console, you will do following operations: submiting photo, send to retoucher,audit retouch photo, asserting requirements complete , submit job to cordinator for QC.
+In this console, you will do following operations:
+
+1.   submiting photo, 
+2.   send to retoucher,
+3.   audit retouch photo, 
+4.    asserting requirements complete , 
+5.    submit job to cordinator for QC.
+
+
 
