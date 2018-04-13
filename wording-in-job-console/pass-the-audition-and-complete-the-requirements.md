@@ -12,9 +12,9 @@ Audit again when retoucher re-upload.
 
 ![](/assets/redo_job.png)![](/assets/redon_anywhere.png)
 
-when all jobs complete , your QC for job has compelted as well. You can submit the whole job to coordinator for QC. 
+when all jobs complete , your QC for job has compelted as well. You can submit the whole job to coordinator for QC.
 
-![](/assets/complete_job_qc.png)
+![](/assets/complete_job_qc.png)d
 
 
 
